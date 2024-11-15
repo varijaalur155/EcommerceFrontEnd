@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:5454";
+export const API_URL = "https://ecommercebackend-z7gb.onrender.com";
 export const DEPLOYED_URL = "https://ecommercebackend-z7gb.onrender.com"
 // change api
 
